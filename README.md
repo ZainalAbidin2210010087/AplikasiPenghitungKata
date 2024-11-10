@@ -7,7 +7,7 @@
 
 # AplikasiPenghitungKata
 
-**WordCounterGUI** adalah aplikasi berbasis GUI (Graphical User Interface) yang berfungsi untuk menghitung jumlah kata, karakter, kalimat, dan paragraf dalam teks yang diinputkan. Aplikasi ini dilengkapi dengan fitur untuk menampilkan statistik teks serta menyimpan hasilnya dalam file teks.
+**AplikasiPenghitungKata** adalah aplikasi berbasis GUI (Graphical User Interface) yang berfungsi untuk menghitung jumlah kata, karakter, kalimat, dan paragraf dalam teks yang diinputkan. Aplikasi ini dilengkapi dengan fitur untuk menampilkan statistik teks serta menyimpan hasilnya dalam file teks.
 
 ## Fitur
 - **Penghitungan Otomatis**: Menghitung jumlah kata, karakter, kalimat, dan paragraf dalam teks yang diinput.
